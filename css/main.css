@@ -5,8 +5,12 @@ body{
   background-color: black;
 }
 h1{
-  color: white;
+ text-align: center;
 }
 p{
   color: white;
+}
+#nasa{
+  width: 100%;
+  background-color: lightgray;
 }
